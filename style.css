@@ -68,7 +68,8 @@ body {
   For the best results, try finding images that are about the same size as the images
   that are currently being used (they're all 120x189 pixels).
   */
-  background-image: url(./images/card.png); /* this is the image that appears on the front of all the cards */
+  /*background-image: url(./images/card.png);*/ /* this is the image that appears on the front of all the cards */
+  background-image: url(./images/firefox.jpg); /* this is the image that appears on the front of all the cards */
   background-position: 0 0;
   border-radius: 4px;
   z-index: 10;
